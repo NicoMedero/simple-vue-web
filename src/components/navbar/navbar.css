@@ -1,7 +1,4 @@
-.navbar-main-title {
-    margin-left: 5%;
-}
-
-.navbar-items {
-    margin-right: 5%;
+.navbar-component {
+    padding-left: 5%;
+    padding-right: 5%;
 }

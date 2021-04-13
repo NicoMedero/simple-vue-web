@@ -1,6 +1,6 @@
 <template>
   <div id="navbar">
-      <b-navbar toggleable="lg" type="dark" variant="info">
+      <b-navbar class="navbar-component" toggleable="lg" type="dark" variant="info">
             <b-navbar-brand class="navbar-main-title" href="#">Vendemos Todo</b-navbar-brand>
 
             <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
